@@ -2,7 +2,7 @@
 *Dr. Charles R. Severance*
 
 ## Chapter 1: Why should you learn to write programs?
-## [Chapter 2: Variables, expressions, and statements](https://github.com/ngkhang/py4e/tree/main/Chapter02)
+## [Chapter 2: Variables, expressions, and statements](Chapter02)
 ## [Chapter 3: Conditional execution](https://github.com/ngkhang/py4e/tree/main/Chapter03)
     Chapter 4: Functions
     Chapter 5: Iteration
